@@ -1,0 +1,5 @@
+NaN (Not a number)
+None (for object data types)
+
+isnull()
+true-NaN is missing
