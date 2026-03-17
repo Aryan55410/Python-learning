@@ -1,0 +1,20 @@
+gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score,average,grade
+female,group B,bachelor's degree,standard,none,72,72,74,218,C
+female,group C,some college,standard,completed,69,90,88,247,B
+female,group B,master's degree,standard,none,90,95,93,278,A
+male,group A,associate's degree,free/reduced,none,47,57,44,148,F
+male,group C,some college,standard,none,76,78,75,229,C
+female,group B,associate's degree,standard,none,71,83,78,232,C
+female,group B,some college,standard,completed,88,95,92,275,A
+male,group B,some college,free/reduced,none,40,43,39,122,F
+male,group D,high school,free/reduced,completed,64,64,67,195,D
+female,group B,high school,free/reduced,none,38,60,50,148,F
+male,group C,associate's degree,standard,none,58,54,52,164,F
+male,group D,associate's degree,standard,none,40,52,43,135,F
+female,group B,high school,standard,none,65,81,73,219,C
+male,group A,some college,standard,completed,78,72,70,220,C
+female,group A,master's degree,standard,none,50,53,58,161,F
+female,group C,some high school,standard,none,69,75,78,222,C
+male,group C,high school,standard,none,88,89,86,263,B
+female,group B,some high school,free/reduced,none,18,32,28,78,F
+male,group C,master's degree,free/reduced,completed,46,42,46,134,F
